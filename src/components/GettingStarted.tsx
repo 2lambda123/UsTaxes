@@ -1,7 +1,7 @@
 import { ReactElement } from 'react'
 import { Helmet } from 'react-helmet'
 import { Link, useMediaQuery } from '@material-ui/core'
-import { StartButtons, SingleButtons } from './pager'
+import { StartButtons, SingleButtons } from './new_pager_location'
 import { isWeb } from 'ustaxes/core/util'
 
 const urls = {
