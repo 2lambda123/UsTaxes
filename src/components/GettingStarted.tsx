@@ -18,7 +18,7 @@ const urls = {
 const doubleButtons: ReactElement = (
   <StartButtons
     firstText={'Start Return In Browser'}
-    firstUrl={urls.startPage}
+    new_code firstUrl={urls.startPage}
     secondText={'Download Desktop Version'}
     secondUrl={urls.releases}
   />
