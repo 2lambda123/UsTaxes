@@ -10,7 +10,7 @@
     "@material-ui/pickers": "^3.3.11",
     "@tauri-apps/api": "^1.6.0",
     "@tauri-apps/cli": "^1.6.0",
-    "ajv": "^8.16.0",
+    "ajv": "^8.17.1",
     "date-fns": "^3.6.0",
     "lodash": "^4.17.21",
     "loglevel": "^1.9.1",
